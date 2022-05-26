@@ -12,6 +12,6 @@ It automatically creates the <i>Genesis</i> block if it does not exist
 <br>
 
 ### Add New Block with data<br>
-`go run main.go add 'My block data'`
+`go run main.go add -block "My block data"`
 
 ###
